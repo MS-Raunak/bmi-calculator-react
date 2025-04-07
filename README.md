@@ -1,7 +1,7 @@
 # React + Vite
 
 This is a simple Body Mass Index(BMI) calculator app which takes weight and height as input and calculate your bmi report.
-Tech Stack used:
+#Tech Stack used:
 1- HTML/CSS
 2- JavaScript
 3- ReactJs(Especially Focused on state management)
